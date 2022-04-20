@@ -670,3 +670,10 @@
 /home/andy/esp/hello_world_static_lib/build/esp-idf/main/CMakeFiles/rebuild_cache.dir
 /home/andy/esp/hello_world_static_lib/build/esp-idf/main/CMakeFiles/edit_cache.dir
 /home/andy/esp/hello_world_static_lib/build/esp-idf/main/CMakeFiles/__idf_main.dir
+/home/andy/esp/hello_world_static_lib/build/esp-idf/hello_world/CMakeFiles/install/strip.dir
+/home/andy/esp/hello_world_static_lib/build/esp-idf/hello_world/CMakeFiles/install/local.dir
+/home/andy/esp/hello_world_static_lib/build/esp-idf/hello_world/CMakeFiles/edit_cache.dir
+/home/andy/esp/hello_world_static_lib/build/esp-idf/hello_world/CMakeFiles/install.dir
+/home/andy/esp/hello_world_static_lib/build/esp-idf/hello_world/CMakeFiles/list_install_components.dir
+/home/andy/esp/hello_world_static_lib/build/esp-idf/hello_world/CMakeFiles/rebuild_cache.dir
+/home/andy/esp/hello_world_static_lib/build/esp-idf/hello_world/CMakeFiles/__idf_hello_world.dir

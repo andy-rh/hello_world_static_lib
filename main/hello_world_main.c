@@ -13,9 +13,11 @@
 #include "esp_system.h"
 #include "esp_spi_flash.h"
 
+#include "hello_world.h"
+
 void app_main(void)
 {
-    printf("Hello world!\n");
+    hello_world();//输出hello_world
 
     /* Print chip information */
     esp_chip_info_t chip_info;
@@ -39,5 +41,10 @@ void app_main(void)
     }
     printf("Restarting now.\n");
     fflush(stdout);
-    esp_restart();
+    // esp_restart();
+
+    while(1)
+    {
+        vTaskDelay(1000 / portTICK_PERIOD_MS);
+    }
 }

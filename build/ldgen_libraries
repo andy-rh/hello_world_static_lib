@@ -70,3 +70,4 @@
 /home/andy/esp/hello_world_static_lib/build/esp-idf/ulp/libulp.a
 /home/andy/esp/hello_world_static_lib/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
 /home/andy/esp/hello_world_static_lib/build/esp-idf/main/libmain.a
+/home/andy/esp/hello_world_static_lib/build/esp-idf/hello_world/libhello_world.a

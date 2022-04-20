@@ -122,6 +122,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/andy/esp/hello_world_static_lib/build/esp-idf/ulp/cmake_install.cmake")
   include("/home/andy/esp/hello_world_static_lib/build/esp-idf/wifi_provisioning/cmake_install.cmake")
   include("/home/andy/esp/hello_world_static_lib/build/esp-idf/main/cmake_install.cmake")
+  include("/home/andy/esp/hello_world_static_lib/build/esp-idf/hello_world/cmake_install.cmake")
 
 endif()
 
